@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Title Fetcher",
+    "version": "1.0",
+    "description": "Fetches the title of the current tab.",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}
